@@ -1,6 +1,0 @@
-{
-  "templates": [
-    { "id": "syllabus_template", "name": "Standard Syllabus Template", "filename": "Syllabus_Template.csv" },
-    { "id": "module_template", "name": "Single Module Structure", "filename": "Module_Template.csv" }
-  ]
-}
