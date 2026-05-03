@@ -1,6 +1,57 @@
-{
-  "templates": [
-    { "id": "syllabus_template", "name": "Standard Syllabus Template", "filename": "Syllabus_Template.csv" },
-    { "id": "module_template", "name": "Single Module Structure", "filename": "Module_Template.csv" }
-  ]
-}
+[
+  {
+    "id": "module-template",
+    "name": "Module Template",
+    "filename": "Module_Template.csv"
+  },
+  {
+    "id": "syllabus-template",
+    "name": "Syllabus Template",
+    "filename": "Syllabus_Template.csv"
+  },
+  {
+    "id": "viii-math",
+    "name": "VIII MATH",
+    "filename": "VIII_MATH.csv"
+  },
+  {
+    "id": "vii-math",
+    "name": "VII MATH",
+    "filename": "VII_MATH.csv"
+  },
+  {
+    "id": "vi-math",
+    "name": "VI MATH",
+    "filename": "VI_MATH.csv"
+  },
+  {
+    "id": "xii-phy",
+    "name": "XII PHY",
+    "filename": "XII_PHY.csv"
+  },
+  {
+    "id": "xi-phy",
+    "name": "XI PHY",
+    "filename": "XI_PHY.csv"
+  },
+  {
+    "id": "cbse-12-cs",
+    "name": "cbse 12 cs",
+    "filename": "cbse_12_cs.csv"
+  },
+  {
+    "id": "icse-10-ca",
+    "name": "icse 10 ca",
+    "filename": "icse_10_ca.csv"
+  },
+  {
+    "id": "it-training-template",
+    "name": "it training template",
+    "filename": "it_training_template.csv"
+  },
+  {
+    "id": "jntu-cse-curriculum",
+    "name": "jntu cse curriculum",
+    "filename": "jntu_cse_curriculum.csv"
+  }
+]
