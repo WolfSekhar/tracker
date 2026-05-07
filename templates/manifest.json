@@ -10,31 +10,6 @@
     "filename": "Syllabus_Template.csv"
   },
   {
-    "id": "viii-math",
-    "name": "VIII MATH",
-    "filename": "VIII_MATH.csv"
-  },
-  {
-    "id": "vii-math",
-    "name": "VII MATH",
-    "filename": "VII_MATH.csv"
-  },
-  {
-    "id": "vi-math",
-    "name": "VI MATH",
-    "filename": "VI_MATH.csv"
-  },
-  {
-    "id": "xii-phy",
-    "name": "XII PHY",
-    "filename": "XII_PHY.csv"
-  },
-  {
-    "id": "xi-phy",
-    "name": "XI PHY",
-    "filename": "XI_PHY.csv"
-  },
-  {
     "id": "cbse-12-cs",
     "name": "cbse 12 cs",
     "filename": "cbse_12_cs.csv"

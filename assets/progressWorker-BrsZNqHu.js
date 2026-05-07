@@ -1,0 +1,1 @@
+(function(){"use strict";self.onmessage=c=>{const e=c.data;if(!Array.isArray(e))return;const a={},t={};for(let o=0;o<e.length;o++){const n=e[o],s=n.syllabusId;s&&(t[s]||(t[s]={total:0,done:0}),t[s].total++,n.completed&&t[s].done++)}for(const o in t){const{total:n,done:s}=t[o];a[o]=n>0?Math.round(s/n*100):0}self.postMessage(a)}})();
